@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.0.8",
     "boxicons": "^2.1.4",
     "framer-motion": "^12.4.7",
+    "go": "^3.0.1",
     "lucide-react": "^0.475.0",
     "npx": "^3.0.0",
     "react": "^19.0.0",
